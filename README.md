@@ -6,7 +6,10 @@ This repository documents the lore, characters, and story arcs for Isabella's or
 
 ## 👥 Main Characters & Profiles
 
+The main group consists of four friends: two girls (**Isa** & **Mila**) and two boys (**Eliseo** & **Evan**).
+
 ### 💫 Isa (The Universal Sovereign)
+- **Gender:** Female
 - **Power:** **Universe Powers (Black Hole & Everything in the Universe)**. The strongest character in the series.
 - **Family Lore:**
   - **Mother:** Eve (Tragically died in an accident).
@@ -17,6 +20,7 @@ This repository documents the lore, characters, and story arcs for Isabella's or
 - **Current Conflict:** Vera has become a "bad person," leading to intense future battles between the sisters.
 
 ### ⚡ Mila (The Thunderstorm)
+- **Gender:** Female
 - **Power:** **Thunder Powers**. Very special and powerful.
 - **Best Friend:** Isa.
 - **Family Lore:**
@@ -24,20 +28,22 @@ This repository documents the lore, characters, and story arcs for Isabella's or
   - **Father:** Richard (Abusive).
 - **Backstory:** Despite her difficult home life, she grew up incredibly strong and resilient.
 
-### 🔥 Elisa (The Scorching Soul)
+### 🔥 Eliseo (The Scorching Soul)
+- **Gender:** Male
 - **Power:** **Fire Powers**. Extremely powerful.
 - **Family Lore:**
   - **Mother:** Grace (Deceased).
-  - **Father:** Victor (Cold, mean, and abandoned Elisa to force him to become "stronger").
-- **Backstory:** Just like Isa, Elisa's power grew from a place of abandonment and hardship.
+  - **Father:** Victor (Cold, mean, and abandoned Eliseo to force him to become "stronger").
+- **Backstory:** Just like Isa, Eliseo's power grew from a place of abandonment and hardship.
 
-### ✨ Even (The Guardian's Legacy)
+### ✨ Evan (The Guardian's Legacy)
+- **Gender:** Male
 - **Power:** [TBD]
 - **Family Lore:**
-  - **Mother:** Amber (Mother of Even who left him).
-  - **Father:** [Unnamed] (Left Amber, causing her to leave Even).
+  - **Mother:** Amber (Mother of Evan who left him).
+  - **Father:** [Unnamed] (Left Amber, causing her to leave Evan).
   - **Guardian:** **Grandma Aurelia** stepped in to raise him.
-- **Backstory:** Thanks to Aurelia's guidance, Even became a good person and remarkably strong.
+- **Backstory:** Thanks to Aurelia's guidance, Evan became a good person and remarkably strong.
 
 ---
 
