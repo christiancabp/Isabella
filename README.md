@@ -6,7 +6,7 @@ This repository documents the lore, characters, and story arcs for Isabella's or
 
 ## 👥 Main Characters & Profiles
 
-The main group consists of four friends: two girls (**Isa** & **Mila**) and two boys (**Eliseo** & **Evan**).
+The main group consists of four friends: two girls (**Isa** & **Mila**) and two boys (**Elyseo** & **Evan**).
 
 ### 💫 Isa (The Universal Sovereign)
 - **Gender:** Female
@@ -28,13 +28,13 @@ The main group consists of four friends: two girls (**Isa** & **Mila**) and two 
   - **Father:** Richard (Abusive).
 - **Backstory:** Despite her difficult home life, she grew up incredibly strong and resilient.
 
-### 🔥 Eliseo (The Scorching Soul)
+### 🔥 Elyseo (The Scorching Soul)
 - **Gender:** Male
 - **Power:** **Fire Powers**. Extremely powerful.
 - **Family Lore:**
   - **Mother:** Grace (Deceased).
-  - **Father:** Victor (Cold, mean, and abandoned Eliseo to force him to become "stronger").
-- **Backstory:** Just like Isa, Eliseo's power grew from a place of abandonment and hardship.
+  - **Father:** Victor (Cold, mean, and abandoned Elyseo to force him to become "stronger").
+- **Backstory:** Just like Isa, Elyseo's power grew from a place of abandonment and hardship.
 
 ### ✨ Evan (The Guardian's Legacy)
 - **Gender:** Male
