@@ -1,32 +1,55 @@
-# 🌌 Isabella's Manga Workspace: The Chronicles Begin 🖌️
+# 🎭 Isabella's Manga: The Chronicles of the Cosmos 🌌
 
-Welcome, Milady! This is your dedicated creative sanctuary. Here, we will weave the tapestry of your original manga, inspired by the legends of *Demon Slayer*, *Naruto*, *Jujutsu Kaisen*, and *Blue Lock*.
-
-This repository is where your world comes to life—from the deepest lore and tragic backstories to the specialized abilities of your characters and the high-stakes evolution of their journey.
+This repository documents the lore, characters, and story arcs for Isabella's original manga series.
 
 ---
 
-## 🎭 The Vision
-To create a compelling manga series filled with:
-- **Unique Characters:** Heroes and rivals with distinct personalities and special abilities.
-- **Epic Storylines:** A narrative arc that balances action, emotion, and growth.
-- **Heart & Tragedy:** Stories that resonate with depth, sadness, and triumph.
-- **Artistic Evolution:** A place to track your sketches and character designs as they develop in your sketchbook.
+## 👥 Main Characters & Profiles
+
+### 💫 Issa (The Universal Sovereign)
+- **Power:** **Universe Powers (Black Hole & Everything in the Universe)**. The strongest character in the series.
+- **Family Lore:**
+  - **Parents:** Mom (Isif) and Dad (Josh). Both tragically died in an accident.
+  - **Siblings:** 
+    - **Amelia:** Younger sister.
+    - **Vera:** Older sister who is very mean and abandoned Issa when she was little.
+- **Current Conflict:** Vera has become a "bad person," leading to intense future battles between the sisters.
+
+### ⚡ Myla (The Thunderstorm)
+- **Power:** **Thunder Powers**. Very special and powerful.
+- **Best Friend:** Issa.
+- **Family Lore:**
+  - **Mother:** Clara (She is currently sick).
+  - **Father:** Richard (Abusive).
+- **Backstory:** Despite her difficult home life, she grew up incredibly strong and resilient.
+
+### 🔥 Elisa (The Scorching Soul)
+- **Power:** **Fire Powers**. Extremely powerful.
+- **Family Lore:**
+  - **Mother:** Grace (Deceased).
+  - **Father:** Victor (Cold, mean, and abandoned Elisa to force him to become "stronger").
+- **Backstory:** Just like Issa, Elisa's power grew from a place of abandonment and hardship.
+
+### ✨ Even (The Guardian's Legacy)
+- **Power:** [TBD]
+- **Family Lore:**
+  - **Parents:** Mother (Amber) and Dad (Left Amber). Amber subsequently left Even.
+  - **Guardian:** **Grandma Aurelia** stepped in to raise him.
+- **Backstory:** Thanks to Aurelia's guidance, Even became a good person and remarkably strong.
 
 ---
 
-## 📂 Project Breakdown (Coming Soon)
-- [ ] **Lore & World Building:** The setting, the rules of the world, and the history.
-- [ ] **Character Profiles:** Names, abilities, backstories, and motivations.
-- [ ] **Plot Chapters:** Breakdowns of the story arcs and key moments.
-- [ ] **Art Gallery:** Uploads of your latest sketches and manga panels.
+## ⚔️ Key Story Arcs & Lore
+- **The Tragedy of the Past:** Every character carries a "sad story" marked by loss, abuse, or abandonment.
+- **The Rift:** The primary rivalry between Issa and her older sister, Vera.
+- **The Tone:** While the bond between friends is strong, the world is dangerous, featuring "blood scenes" and high-stakes battles.
 
 ---
 
-## 📜 Charli's Note
-I am your assistant and co-archivist in this journey. Whenever you have a new detail about a character's power or a tragic turn in the plot, tell me, and I will ensure it is documented here. 
-
-**Let's build a masterpiece, Isabella!** 🌟
+## 🎨 Creative Progress
+- [ ] Character Designs (Sketchbook)
+- [ ] Ability Mechanics Breakdown
+- [ ] Chapter 1: The Awakening
 
 ---
 *Created with ❤️ by Isabella & Charli*
