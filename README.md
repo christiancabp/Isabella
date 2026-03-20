@@ -6,18 +6,18 @@ This repository documents the lore, characters, and story arcs for Isabella's or
 
 ## 👥 Main Characters & Profiles
 
-### 💫 Issa (The Universal Sovereign)
+### 💫 Isa (The Universal Sovereign)
 - **Power:** **Universe Powers (Black Hole & Everything in the Universe)**. The strongest character in the series.
 - **Family Lore:**
   - **Parents:** Mom (Isif) and Dad (Josh). Both tragically died in an accident.
   - **Siblings:** 
     - **Amelia:** Younger sister.
-    - **Vera:** Older sister who is very mean and abandoned Issa when she was little.
+    - **Vera:** Older sister who is very mean and abandoned Isa when she was little.
 - **Current Conflict:** Vera has become a "bad person," leading to intense future battles between the sisters.
 
 ### ⚡ Myla (The Thunderstorm)
 - **Power:** **Thunder Powers**. Very special and powerful.
-- **Best Friend:** Issa.
+- **Best Friend:** Isa.
 - **Family Lore:**
   - **Mother:** Clara (She is currently sick).
   - **Father:** Richard (Abusive).
