@@ -9,13 +9,14 @@ This repository documents the lore, characters, and story arcs for Isabella's or
 ### 💫 Isa (The Universal Sovereign)
 - **Power:** **Universe Powers (Black Hole & Everything in the Universe)**. The strongest character in the series.
 - **Family Lore:**
-  - **Parents:** Mom (Isif) and Dad (Josh). Both tragically died in an accident.
+  - **Mother:** Eve (Tragically died in an accident).
+  - **Father:** Josh (Tragically died in an accident).
   - **Siblings:** 
-    - **Amelia:** Younger sister.
+    - **Amilia:** Younger sister.
     - **Vera:** Older sister who is very mean and abandoned Isa when she was little.
 - **Current Conflict:** Vera has become a "bad person," leading to intense future battles between the sisters.
 
-### ⚡ Myla (The Thunderstorm)
+### ⚡ Mila (The Thunderstorm)
 - **Power:** **Thunder Powers**. Very special and powerful.
 - **Best Friend:** Isa.
 - **Family Lore:**
@@ -28,12 +29,13 @@ This repository documents the lore, characters, and story arcs for Isabella's or
 - **Family Lore:**
   - **Mother:** Grace (Deceased).
   - **Father:** Victor (Cold, mean, and abandoned Elisa to force him to become "stronger").
-- **Backstory:** Just like Issa, Elisa's power grew from a place of abandonment and hardship.
+- **Backstory:** Just like Isa, Elisa's power grew from a place of abandonment and hardship.
 
 ### ✨ Even (The Guardian's Legacy)
 - **Power:** [TBD]
 - **Family Lore:**
-  - **Parents:** Mother (Amber) and Dad (Left Amber). Amber subsequently left Even.
+  - **Mother:** Amber (Mother of Even who left him).
+  - **Father:** [Unnamed] (Left Amber, causing her to leave Even).
   - **Guardian:** **Grandma Aurelia** stepped in to raise him.
 - **Backstory:** Thanks to Aurelia's guidance, Even became a good person and remarkably strong.
 
@@ -41,7 +43,7 @@ This repository documents the lore, characters, and story arcs for Isabella's or
 
 ## ⚔️ Key Story Arcs & Lore
 - **The Tragedy of the Past:** Every character carries a "sad story" marked by loss, abuse, or abandonment.
-- **The Rift:** The primary rivalry between Issa and her older sister, Vera.
+- **The Rift:** The primary rivalry between Isa and her older sister, Vera.
 - **The Tone:** While the bond between friends is strong, the world is dangerous, featuring "blood scenes" and high-stakes battles.
 
 ---
